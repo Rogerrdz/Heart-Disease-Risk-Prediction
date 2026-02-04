@@ -1,6 +1,7 @@
-# Heart-Disease-Risk-Prediction
-
-One Paragraph of project description goes here
+# Heart Disease Risk Prediction : Logistic Regression
+----
+## Introductory Context
+Heart disease is the leading cause of death worldwide, claiming approximately 18 million lives each year, the World Health Organization reports. Predictive models such as logistic regression may allow early identification of patients at risk by analyzing clinical characteristics such as age, cholesterol, and blood pressure. This not only improves treatment outcomes but also optimizes resource allocation in healthcare settings. In this repository, logistic regression is implemented on the Heart Disease dataset, a real-world UCI repository collection of 303 patient records with 14 features and a binary objective (1 for presence of disease, 0 for absence). We'll train models, visualize boundaries, apply regularization, and explore deployment through Amazon SageMaker to mimic a production process.
 
 ## Getting Started
 
