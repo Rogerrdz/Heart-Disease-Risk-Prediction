@@ -128,8 +128,28 @@ Output: Probability = 0.68 → High risk
 
 The repository includes screenshots showing:
 SageMaker training notebook execution
-Endpoint configuration
 Inference response output
+
+![](assets/Open_sagemaker.png.png)
+![](assets/Notebook_open_sagemaker.png)
+![](assets/Notebook_open_sagemaker_1.png)
+![](assets/Notebook_open_sagemaker_2.png)
+![](assets/Notebook_open_sagemaker_3.png)
+![](assets/Notebook_open_sagemaker_4.png)
+![](assets/Notebook_open_sagemaker_5.png)
+![](assets/Notebook_open_sagemaker_6.png)
+![](assets/Notebook_open_sagemaker_7.png)
+![](assets/Notebook_open_sagemaker_8.png)
+![](assets/Notebook_open_sagemaker_9.png)
+![](assets/Notebook_open_sagemaker_10.png)
+![](assets/Notebook_open_sagemaker_11.png)
+![](assets/Notebook_open_sagemaker_12.png)
+![](assets/Notebook_open_sagemaker_13.png)
+![](assets/Notebook_open_sagemaker_14.png)
+
+Example Sagemaker 
+
+![](assets/Notebook_open_sagemaker_15.png)
 
 ## Built With
 
@@ -138,23 +158,17 @@ Inference response output
 - Pandas
 - Matplotlib
 - Amazon SageMaker
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
+  
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Rogerrdz/Heart-Disease-Risk-Prediction.git). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
+* **Roger Rodriguez** - *Initial work and analysis* 
+  
 ## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+- Kaggle – Dataset hosting
+- UCI Machine Learning Repository
+- Course material on Logistic Regression
+- AWS SageMaker documentation
